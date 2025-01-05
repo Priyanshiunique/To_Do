@@ -1,44 +1,39 @@
 # To-Do List
 
 
--A simple and interactive To-Do List web application where users can add and remove tasks. 
--This project demonstrates the use of HTML, CSS, and JavaScript to manage tasks dynamically.
+- A simple and interactive To-Do List web application where users can add and remove tasks. 
+- This project demonstrates the use of HTML, CSS, and JavaScript to manage tasks dynamically.
 
 ## Features
--Add Tasks: Enter a task in the input field and click "Add Task" to add it to the list.
--Delete Tasks: Click the "delete" button next to a task to remove it from the list.
--Interactive: The list updates in real-time as tasks are added or removed.
--Responsive: The UI adjusts well to different screen sizes.
+- Add Tasks: Enter a task in the input field and click "Add Task" to add it to the list.
+- Delete Tasks: Click the "delete" button next to a task to remove it from the list.
+- Interactive: The list updates in real-time as tasks are added or removed.
+- Responsive: The UI adjusts well to different screen sizes.
 
 ## Technology Used
--HTML: Structure of the web page.
--CSS: Styling and layout for the user interface.
--JavaScript: Functionality for adding and deleting tasks dynamically.
+- HTML: Structure of the web page.
+- CSS: Styling and layout for the user interface.
+- JavaScript: Functionality for adding and deleting tasks dynamically.
 
 
-## Features
-- Data collection
-- Data cleaning and preprocessing
-- Exploratory Data Analysis
-- Model building and selection
-- Web deployment using Streamlit
+
 
 ## How It Works
 
 ### 1.Add a Task
--Type your task in the input field at the top of the page.
--Click the "Add Task" button to add it to the list below.
+- Type your task in the input field at the top of the page.
+- Click the "Add Task" button to add it to the list below.
 
 ### 2.Delete a Task
--Each task in the list has a "delete" button next to it.
--Click the "delete" button to remove the task from the list.
+- Each task in the list has a "delete" button next to it.
+- Click the "delete" button to remove the task from the list.
 
 
 
 
 ## Future Improvements
--Add functionality to mark tasks as completed.
--Store tasks in localStorage so they persist when the page is refreshed.
+- Add functionality to mark tasks as completed.
+- Store tasks in localStorage so they persist when the page is refreshed.
 
 
 ## Usage
